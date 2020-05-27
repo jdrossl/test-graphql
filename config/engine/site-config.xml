@@ -21,4 +21,8 @@
 
 <site>
     <version>2</version>
+    <omdb>
+        <baseUrl>http://www.omdbapi.com</baseUrl>
+        <apiKey>4895ca2f</apiKey>
+    </omdb>
 </site>
